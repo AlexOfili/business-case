@@ -1,8 +1,6 @@
 """
-Smart Trolley Pilot — Unit Economics Model
+Smart Trolley Pilot 
 ==========================================
-
-Riverside Malls — Day 9 business case.
 
 The math:
     monthly_profit = T * (P - v) - F
@@ -33,7 +31,7 @@ def unit_economics(price, variable=40, fixed=3000, trolleys=25):
 
 
 # ---------------------------------------------------------------------------
-# Sensitivity helpers (used by make_chart.py and build_xlsx.py)
+# Sensitivity helpers 
 # ---------------------------------------------------------------------------
 def profit_at(price, variable, fixed, trolleys):
     """Raw profit (no rounding) — used by chart and stress-test code."""

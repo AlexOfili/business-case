@@ -15,4 +15,4 @@ The offensive case is the real prize. A mall that knows how shoppers actually mo
 
 Build the pilot. Defend the £200 headline. Treat the trolleys as the data-collection layer; sell the data, not the metal.
 
-*(149 words.)*
+
